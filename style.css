@@ -2,3 +2,38 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-family: 'Poppins', sans-serif;
 }
+
+section {
+    margin-bottom: 30px;
+}
+
+.First-Banner {
+    background-image: url(First-Banner.webp)
+}
+
+h1 {
+    font-size: 80px;
+    color: white;
+}
+
+.Donation-Intro {
+    text-align: center;
+
+}
+
+.Donation-Intro p {
+    color: black;
+    font-size: 25px;
+    margin: 10%;
+}
+
+.Link-Button {
+    text-decoration: none;
+    padding: 10px 30px;
+    background-image: linear-gradient(red, tomato);
+    border-radius: 10px;
+    color: white;
+    position: relative;
+    bottom: 50px;
+
+}
