@@ -4,7 +4,7 @@ body {
 }
 
 section {
-    margin-bottom: 30px;
+    margin-bottom: 100px;
 }
 
 .First-Banner {
@@ -36,4 +36,115 @@ h1 {
     position: relative;
     bottom: 50px;
 
+}
+
+.H1-Black {
+    color: black;
+}
+
+.Donate-taka {
+    text-align: center;
+}
+
+.Donate-taka p {
+    font-size: 20px;
+    margin: 80px;
+}
+
+.Ammount-Taka {
+    display: flex;
+    text-align: center;
+}
+
+.Ammount-Taka>div {
+
+    margin: 20px;
+    padding: 30px;
+    padding-left: 50px;
+    font-size: 40px;
+    position: relative;
+    left: 60px;
+}
+
+#Special-Taka {
+    background-image: linear-gradient(pink, tomato);
+    border-style: solid;
+    border-width: 2px;
+    border-color: tomato;
+
+}
+
+.Same-color-taka {
+    background-image: linear-gradient(gray, white);
+}
+
+#Horizontal-Line {
+    position: relative;
+    top: 30px;
+    padding-right: 25%;
+    padding-left: 25%;
+}
+
+#link-button-position {
+    position: relative;
+    top: 20px;
+}
+
+#Donate-plan-Color {
+    color: black;
+}
+
+.Our-Donate-Plan {
+    text-align: center;
+}
+
+.Our-Donate-Plan p {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.food-sheltar-education {
+    display: flex;
+    margin: 3%;
+    text-align: justify;
+
+}
+
+.food-sheltar-education img {
+    width: 40%;
+    position: relative;
+    left: 70px;
+}
+
+.food-sheltar-education p {
+    padding: 15px;
+}
+
+.food-sheltar-education h4 {
+    text-align: left;
+    padding-left: 10px;
+}
+
+.food-sheltar-education-width {
+    width: 25%;
+    margin: 5%;
+    background-color: aqua;
+}
+
+.Food-For-Family {
+    background-color: cornflowerblue;
+    opacity: inherit;
+    border-radius: 5px;
+}
+
+.Sheltar-For-Family {
+    background-color: gray;
+    opacity: inherit;
+    border-radius: 5px;
+}
+
+.Education-for-child {
+    background-color: darksalmon;
+    opacity: inherit;
+    border-radius: 5px;
 }
